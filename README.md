@@ -1,1 +1,11 @@
 # ethereum-price-predictor
+
+In this project, the focus will be on predicting the price of Ethereum. To develop this project, I will be referring to a [Medium](https://medium.com/bitgrit-data-science-publication/ethereum-price-prediction-with-python-3b3805e6e512) article as a guide for building the code. The link to the article has been included below for reference.
+
+When discussing the realm of cryptocurrency, it is impossible not to mention Ethereum. With the second-highest market capitalization, it trails only behind Bitcoin. The primary function of Ethereum is to facilitate the execution of decentralized smart contracts.
+
+Cryptocurrency prices, similar to stock prices, are time-series data. As a result, it requires specific algorithms for accurate predictions. Machine learning offers a vast array of options for this purpose, each with its unique capabilities for different use cases. For this project, I will be utilizing the Prophet library, a popular library developed by Facebook, that specializes in forecasting time-series data.
+
+The model developed for this project predicts that the value of Ethereum will be $-1,646.50 on January 1st, 2024. This prediction is based on various factors including historical data and current market conditions. However, it should be noted that this prediction is subject to change and should be viewed as an estimate. The model takes into account the potential impact of the 2022 cryptocurrency crash, which is expected to greatly affect the value of Ethereum. The cryptocurrency market is known for its volatility, and fluctuations such as a crash can have a significant impact on the accuracy of the model. Despite this, the model provides a valuable starting point for understanding the market and making predictions. It is important to note that there is always room for improvement, and this model is no exception. Further research and development may be needed to improve the model's ability to handle fluctuations such as cryptocurrency crashes. As time allows, I will continue to work on improving the model to make it more accurate and reliable.
+
+In conclusion, this project was a fun learning experience and served as a proof of concept. However, it is not meant to be used for practical or commercial purposes and should not be used as the sole basis for making any financial decisions.
